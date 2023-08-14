@@ -17,7 +17,7 @@ The ultimate goal of the project is to gain insights from the data sets and comm
 
 ### Project Goal
 
-The goal of this project is to segregate the customers into clusters based on their purchasing activities.
+The goal of this project is to segregate the customers into clusters based on sales data.
 We can acheive this goal by using unsupervised machine learning model like KMean clustering.
  
 
