@@ -15,3 +15,15 @@ The project will involve the following tasks:
 
 The ultimate goal of the project is to gain insights from the data sets and communicate these insights to stakeholders using appropriate visualizations and metrics to make informed decisions based on the business questions asked."
 
+### Project Goal
+
+The goal of the project is to segrate the customers into number of clusters based on their purchase activity.
+We can achive this goal by using unsupervised machine learning model like KMean clustering.
+ 
+
+### Findings
+- Dataset has no missing value.
+- Dataset has a valid outliers.
+- Best cluster number as per the elbow technique is 3.
+- we are able to redcuce the dimenstion to 4 only by using PCA.
+- There is strong correlation between Milk, Grocery and Detergent paper.
